@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: nothing
 - 😄 Pronouns: nothing
-- ⚡ Fun fact: nothing
+- ⚡ Fun fact: I don't like coding
 
 <!---
 anhlinh-II/anhlinh-II is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
